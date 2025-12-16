@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Soil Monitoring Dashboard</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body class="back">
+
+<header>
+    <img src="./images/logo.png" class="logo">
+    <h1>Soil Monitoring Dashboard</h1>
+    <a href="manual_auto.html" class="btn">Switch Control</a>
+</header>
+
+<div class="container">
+    <div class="card">
+        <h2>Soil Moisture</h2>
+        <p id="moistureValue">--%</p>
+    </div>
+    <div class="card">
+        <h2>Humidity</h2>
+        <p id="humidityValue">--%</p>
+    </div>
+    <div class="card">
+        <h2>Temperature</h2>
+        <p id="temperatureValue">--°C</p>
+    </div>
+    <div class="card">
+        <h2>LDR Value</h2>
+        <p id="ldrValue">--ohm</p>
+    </div>
+    <div class="card">
+        <h2>Water Indication</h2>
+        <p id="waterStatus">--</p>
+    </div>
+    <div class="card">
+        <h2>Mode</h2>
+        <p id="modeStatus">--</p>
+    </div>
+</div>
+
+<div style="text-align:center; margin-top: 20px;">
+    <button class="btn" onclick="toggleSeasons()">Seasons</button>
+</div>
+
+<div id="seasonsContainer" class="container" style="display: none; margin-top: 30px;">
+    <div>
+        <div class="resize">
+            <h2>Winter</h2>
+            <a href="./seasons/winter.html"><img src="./images/winter.jpg"></a>
+        </div>
+        <div class="resize">
+            <h2>Summer</h2>
+            <a href="./seasons/Summer.html"><img src="./images/summer.jpg"></a>
+        </div>
+        <div class="resize">
+            <h2>Rainy</h2>
+            <a href="./seasons/Rainy.html"><img src="./images/rainy.jpg"></a>
+        </div>
+        <div class="resize">
+            <h2>Autumn</h2>
+            <a href="./seasons/Autumn.html"><img src="./images/autumn.jpg"></a>
+        </div>
+    </div>
+</div>
+
+<script>
+function toggleSeasons() {
+    const sec = document.getElementById("seasonsContainer");
+    sec.style.display = sec.style.display === "none" ? "flex" : "none";
+}
+</script>
+
+<script src="js/main.js"></script>
+</body>
+</html>

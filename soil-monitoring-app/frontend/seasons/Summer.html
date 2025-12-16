@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Plants List</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Plants Collection</h1>
+        <a href="../index.html" class="btn">Back to Dashboard</a>
+    </header>
+
+    <div class="container">
+
+        <!-- 10 Plant Cards (Updated to show GOOD CONDITION info) -->
+        <div class="card" 
+            onclick="openPopup('Cucumber', conditionText)">
+            <img src="../images/cucumber.jpg">
+            <h2>Cucumber</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Watermelon', conditionText)">
+            <img src="../images/watermelon.jpg">
+            <h2>Watermelon</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Tomato', conditionText)">
+            <img src="../images/tomato3.jpg">
+            <h2>Tomato</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Green Gram', conditionText)">
+            <img src="../images/greengram.jpg">
+            <h2>Green Gram</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Sunflower', conditionText)">
+            <img src="../images/sunflower.jpg">
+            <h2>Sunflower</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Chilli', conditionText)">
+            <img src="../images/chilli.jpg">
+            <h2>Chilli</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Beans', conditionText)">
+            <img src="../images/beans.jpg">
+            <h2>Beans</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Bottle Gourd', conditionText)">
+            <img src="../images/bottleguard.jpg">
+            <h2>Bottle Gourd</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Bitter Gourd', conditionText)">
+            <img src="../images/bitterguard.jpg">
+            <h2>Bitter Gourd</h2>
+        </div>
+
+        <div class="card" 
+            onclick="openPopup('Corn', conditionText)">
+            <img src="../images/corn.jpg">
+            <h2>Corn</h2>
+        </div>
+        
+    </div>
+
+    <!-- Popup Window -->
+    <div id="popupOverlay" class="popup-overlay">
+        <div class="popup-box">
+            <h2 id="popupTitle"></h2>
+            <p id="popupDescription"></p>
+
+            <button class="close-btn" onclick="closePopup()">Close</button>
+        </div>
+    </div>
+
+<script>
+
+    // Good range info for every plant (reused for all)
+    const conditionText = 
+    "🌿 <b>Ideal Growing Conditions:</b><br><br>" +
+    "<b>Humidity:</b> 40% – 60%<br>" +
+    "<b>Temperature:</b> 18°C – 30°C<br>" +
+    "<b>Soil Moisture:</b> 500 – 800 (sensor value)<br>" +
+    "<b>LDR (Light):</b> 200 – 600 (good light)<br>";
+
+    function openPopup(title, description) {
+        document.getElementById("popupTitle").innerHTML = title;
+        document.getElementById("popupDescription").innerHTML = description;
+        document.getElementById("popupOverlay").style.display = "flex";
+    }
+
+    function closePopup() {
+        document.getElementById("popupOverlay").style.display = "none";
+    }
+
+</script>
+
+</body>
+</html>

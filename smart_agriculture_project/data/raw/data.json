@@ -1,0 +1,1392 @@
+[
+    {
+        "ts": "00:05:11",
+        "TEMP_C": "3.0",
+        "HUMIDITY": "7.9",
+        "SOIL_PCT": "5",
+        "SOIL_STATUS": "Wet",
+        "LDR": "48",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-14T19:29:35.183475"
+    },
+    {
+        "ts": "00:05:49",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "15.2",
+        "SOIL_PCT": "3",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:08.288694"
+    },
+    {
+        "ts": "00:05:51",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "15.0",
+        "SOIL_PCT": "3",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:10.293531"
+    },
+    {
+        "ts": "00:05:53",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "15.0",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:12.297187"
+    },
+    {
+        "ts": "00:05:55",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "15.0",
+        "SOIL_PCT": "3",
+        "SOIL_STATUS": "Wet",
+        "LDR": "42",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:14.300330"
+    },
+    {
+        "ts": "00:05:57",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.9",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:16.305070"
+    },
+    {
+        "ts": "00:05:59",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.9",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:18.308545"
+    },
+    {
+        "ts": "00:06:01",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.8",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:20.312810"
+    },
+    {
+        "ts": "00:06:03",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.6",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:22.316905"
+    },
+    {
+        "ts": "00:06:05",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.6",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:24.320671"
+    },
+    {
+        "ts": "00:06:08",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.6",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:26.324774"
+    },
+    {
+        "ts": "00:06:10",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.6",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:28.330114"
+    },
+    {
+        "ts": "00:06:12",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.7",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:30.333367"
+    },
+    {
+        "ts": "00:06:14",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "14.8",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:32.338218"
+    },
+    {
+        "ts": "00:06:16",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "15.1",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:34.344157"
+    },
+    {
+        "ts": "00:06:18",
+        "TEMP_C": "2.0",
+        "HUMIDITY": "15.3",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:36.348627"
+    },
+    {
+        "ts": "00:06:20",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "15.3",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "41",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:38.354501"
+    },
+    {
+        "ts": "00:06:22",
+        "TEMP_C": "2.0",
+        "HUMIDITY": "15.1",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:40.359199"
+    },
+    {
+        "ts": "00:06:24",
+        "TEMP_C": "1.9",
+        "HUMIDITY": "15.1",
+        "SOIL_PCT": "2",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T00:20:42.363497"
+    },
+    {
+        "ts": "00:00:12",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.1",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T03:07:19.699399"
+    },
+    {
+        "ts": "00:00:14",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.0",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T03:07:21.707852"
+    },
+    {
+        "ts": "00:00:16",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.0",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T03:07:23.715976"
+    },
+    {
+        "ts": "00:00:19",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.0",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T03:07:25.726824"
+    },
+    {
+        "ts": "00:00:21",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.0",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T03:07:27.735069"
+    },
+    {
+        "ts": "00:00:23",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.0",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T03:07:29.742378"
+    },
+    {
+        "ts": "00:00:04",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:26.717993"
+    },
+    {
+        "ts": "00:00:06",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:28.725841"
+    },
+    {
+        "ts": "00:00:08",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:30.731190"
+    },
+    {
+        "ts": "00:00:10",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:32.739466"
+    },
+    {
+        "ts": "00:00:12",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:34.746851"
+    },
+    {
+        "ts": "00:00:14",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.4",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:36.756800"
+    },
+    {
+        "ts": "00:00:16",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:38.767089"
+    },
+    {
+        "ts": "00:00:19",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.8",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:40.774714"
+    },
+    {
+        "ts": "00:00:21",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.8",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:42.783800"
+    },
+    {
+        "ts": "00:00:23",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.7",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:44.798623"
+    },
+    {
+        "ts": "00:00:25",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.6",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:46.900599"
+    },
+    {
+        "ts": "00:00:27",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:49.002623"
+    },
+    {
+        "ts": "00:00:29",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:51.104655"
+    },
+    {
+        "ts": "00:00:31",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.4",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:53.206488"
+    },
+    {
+        "ts": "00:00:33",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.4",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:55.308541"
+    },
+    {
+        "ts": "00:00:35",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:57.410820"
+    },
+    {
+        "ts": "00:00:37",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "7.5",
+        "SOIL_PCT": "0",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T03:10:59.512732"
+    },
+    {
+        "ts": "00:00:12",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "8.9",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:09.520566"
+    },
+    {
+        "ts": "00:00:14",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "42",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:11.575864"
+    },
+    {
+        "ts": "00:00:16",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "9.1",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "41",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:13.677943"
+    },
+    {
+        "ts": "00:00:19",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "9.3",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:15.779944"
+    },
+    {
+        "ts": "00:00:21",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.2",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:17.881865"
+    },
+    {
+        "ts": "00:00:23",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:19.983906"
+    },
+    {
+        "ts": "00:00:25",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.8",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:22.085864"
+    },
+    {
+        "ts": "00:00:27",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.7",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:24.187913"
+    },
+    {
+        "ts": "00:00:29",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.6",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:26.289812"
+    },
+    {
+        "ts": "00:00:31",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.5",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:28.391894"
+    },
+    {
+        "ts": "00:00:33",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.4",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:30.493834"
+    },
+    {
+        "ts": "00:00:35",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.3",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:32.596078"
+    },
+    {
+        "ts": "00:00:37",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.1",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:34.697962"
+    },
+    {
+        "ts": "00:00:40",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.1",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:36.799964"
+    },
+    {
+        "ts": "00:00:42",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.0",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:38.901883"
+    },
+    {
+        "ts": "00:00:44",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "7.9",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:41.003962"
+    },
+    {
+        "ts": "00:00:54",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "7.8",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:52.842722"
+    },
+    {
+        "ts": "00:00:56",
+        "TEMP_C": "2.1",
+        "HUMIDITY": "8.2",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "48",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:39:54.864074"
+    },
+    {
+        "ts": "00:01:11",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:08.413844"
+    },
+    {
+        "ts": "00:01:13",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "8.9",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:10.431749"
+    },
+    {
+        "ts": "00:01:15",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "8.8",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:12.533725"
+    },
+    {
+        "ts": "00:01:17",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:14.635858"
+    },
+    {
+        "ts": "00:01:20",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "42",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:16.737780"
+    },
+    {
+        "ts": "00:01:22",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:18.839777"
+    },
+    {
+        "ts": "00:01:24",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.1",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:20.941921"
+    },
+    {
+        "ts": "00:01:26",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.2",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:23.043810"
+    },
+    {
+        "ts": "00:01:36",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.5",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:33.982713"
+    },
+    {
+        "ts": "00:01:38",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.5",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:35.988774"
+    },
+    {
+        "ts": "00:01:41",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.5",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "41",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:37.993847"
+    },
+    {
+        "ts": "00:01:43",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.7",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:39.999574"
+    },
+    {
+        "ts": "00:01:45",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "9.9",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:42.005139"
+    },
+    {
+        "ts": "00:01:47",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "10.2",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:44.063760"
+    },
+    {
+        "ts": "00:01:49",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "10.6",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:46.165844"
+    },
+    {
+        "ts": "00:01:51",
+        "TEMP_C": "2.2",
+        "HUMIDITY": "10.9",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:48.267827"
+    },
+    {
+        "ts": "00:01:53",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "11.2",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "44",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:50.369943"
+    },
+    {
+        "ts": "00:01:55",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "11.4",
+        "SOIL_PCT": "40",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T12:40:52.472063"
+    },
+    {
+        "ts": "00:59:54",
+        "TEMP_C": "2.5",
+        "HUMIDITY": "8.8",
+        "SOIL_PCT": "95",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:35:07.804919"
+    },
+    {
+        "ts": "00:59:56",
+        "TEMP_C": "2.5",
+        "HUMIDITY": "8.6",
+        "SOIL_PCT": "95",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:35:09.820227"
+    },
+    {
+        "ts": "00:59:58",
+        "TEMP_C": "2.5",
+        "HUMIDITY": "8.6",
+        "SOIL_PCT": "95",
+        "SOIL_STATUS": "Wet",
+        "LDR": "47",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:35:11.832723"
+    },
+    {
+        "ts": "01:00:00",
+        "TEMP_C": "2.5",
+        "HUMIDITY": "8.5",
+        "SOIL_PCT": "95",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:35:13.847185"
+    },
+    {
+        "ts": "01:00:02",
+        "TEMP_C": "2.5",
+        "HUMIDITY": "8.3",
+        "SOIL_PCT": "95",
+        "SOIL_STATUS": "Wet",
+        "LDR": "42",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:35:15.859362"
+    },
+    {
+        "ts": "01:12:34",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.5",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "42",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:47:48.286253"
+    },
+    {
+        "ts": "01:12:36",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.9",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "45",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:47:50.300689"
+    },
+    {
+        "ts": "01:12:38",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "11.3",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "46",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:47:52.313808"
+    },
+    {
+        "ts": "01:12:40",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "11.3",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:47:54.331321"
+    },
+    {
+        "ts": "01:12:42",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "11.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:47:56.348256"
+    },
+    {
+        "ts": "01:12:44",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.6",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:47:58.365352"
+    },
+    {
+        "ts": "01:12:47",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.4",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:00.382339"
+    },
+    {
+        "ts": "01:12:49",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.1",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:02.403397"
+    },
+    {
+        "ts": "01:12:51",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.9",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:04.420016"
+    },
+    {
+        "ts": "01:12:53",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.7",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:06.437723"
+    },
+    {
+        "ts": "01:12:55",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.6",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:08.454881"
+    },
+    {
+        "ts": "01:12:57",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.4",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:10.472370"
+    },
+    {
+        "ts": "01:12:59",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.3",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:12.491484"
+    },
+    {
+        "ts": "01:13:01",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.2",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:14.508081"
+    },
+    {
+        "ts": "01:13:03",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.1",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:16.525272"
+    },
+    {
+        "ts": "01:13:05",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:18.537003"
+    },
+    {
+        "ts": "01:13:08",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.9",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:20.555474"
+    },
+    {
+        "ts": "01:13:10",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.8",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:22.574845"
+    },
+    {
+        "ts": "01:13:12",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.7",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:24.591697"
+    },
+    {
+        "ts": "01:13:14",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.6",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:26.599867"
+    },
+    {
+        "ts": "01:13:16",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.5",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:28.611924"
+    },
+    {
+        "ts": "01:13:18",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.5",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:30.631123"
+    },
+    {
+        "ts": "01:13:20",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.5",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:32.678809"
+    },
+    {
+        "ts": "01:13:22",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.5",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:34.780644"
+    },
+    {
+        "ts": "01:13:24",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.4",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:36.882544"
+    },
+    {
+        "ts": "01:13:26",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.4",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:38.984471"
+    },
+    {
+        "ts": "01:13:29",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.4",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:41.086417"
+    },
+    {
+        "ts": "01:13:31",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.4",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:43.188768"
+    },
+    {
+        "ts": "01:13:33",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.6",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:45.290745"
+    },
+    {
+        "ts": "01:13:35",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.8",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:47.392574"
+    },
+    {
+        "ts": "01:13:37",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "8.9",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:49.495044"
+    },
+    {
+        "ts": "01:13:39",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:51.596713"
+    },
+    {
+        "ts": "01:13:41",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:53.698976"
+    },
+    {
+        "ts": "01:13:43",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.1",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:55.801124"
+    },
+    {
+        "ts": "01:13:45",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:48:57.902798"
+    },
+    {
+        "ts": "01:13:47",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:00.004501"
+    },
+    {
+        "ts": "01:13:50",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.2",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:02.106337"
+    },
+    {
+        "ts": "01:13:52",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.6",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:04.208481"
+    },
+    {
+        "ts": "01:13:54",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "43",
+        "LIGHT_LEVEL": "Bright",
+        "system_timestamp": "2025-11-15T14:49:06.310145"
+    },
+    {
+        "ts": "01:13:56",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.9",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:08.412900"
+    },
+    {
+        "ts": "01:13:58",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "9.9",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:10.514884"
+    },
+    {
+        "ts": "01:14:00",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:12.616708"
+    },
+    {
+        "ts": "01:14:02",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.3",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:14.718876"
+    },
+    {
+        "ts": "01:14:04",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.5",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:16.820884"
+    },
+    {
+        "ts": "01:14:06",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "10.9",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:18.922838"
+    },
+    {
+        "ts": "01:14:09",
+        "TEMP_C": "2.3",
+        "HUMIDITY": "11.3",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:21.024833"
+    },
+    {
+        "ts": "01:14:11",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "11.6",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:23.126455"
+    },
+    {
+        "ts": "01:14:13",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "11.2",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:25.228591"
+    },
+    {
+        "ts": "01:14:15",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "11.0",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:27.330975"
+    },
+    {
+        "ts": "01:14:17",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "10.7",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:29.433191"
+    },
+    {
+        "ts": "01:14:19",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "10.5",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:31.534605"
+    },
+    {
+        "ts": "01:14:21",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "10.3",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:33.636611"
+    },
+    {
+        "ts": "01:14:23",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "10.3",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:35.738956"
+    },
+    {
+        "ts": "01:14:25",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "10.4",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:37.840934"
+    },
+    {
+        "ts": "01:14:27",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "10.2",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:39.942553"
+    },
+    {
+        "ts": "01:14:30",
+        "TEMP_C": "2.4",
+        "HUMIDITY": "10.1",
+        "SOIL_PCT": "100",
+        "SOIL_STATUS": "Wet",
+        "LDR": "4095",
+        "LIGHT_LEVEL": "Very Dark",
+        "system_timestamp": "2025-11-15T14:49:42.044527"
+    }
+]
